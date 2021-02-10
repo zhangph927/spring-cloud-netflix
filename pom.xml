@@ -140,7 +140,7 @@
 	<modules>
 		<module>spring-cloud-netflix-dependencies</module>
 		<!-- Not part of the reactor build: build and deploy separately -->
-		<!--module>spring-cloud-netflix-hystrix-contract</module-->
+		<module>spring-cloud-netflix-hystrix-contract</module>
 		<module>spring-cloud-netflix-core</module>
 		<module>spring-cloud-netflix-hystrix-dashboard</module>
 		<module>spring-cloud-netflix-hystrix-amqp</module>
